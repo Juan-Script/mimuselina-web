@@ -41,7 +41,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Pequeño Explorador</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>¡Prepara a tu bebé para descubrir el mundo con el body "Pequeño Explorador"! Este body está diseñado para acompañar a tu pequeño en todas sus aventuras, brindándole libertad de movimiento y comodidad durante todo el día. ¡Deja que su espíritu aventurero brille!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>
@@ -60,7 +60,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Estrellita Mágica</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>Dale a tu bebé el regalo de la magia con el body "Estrellita Mágica". Este adorable body está decorado con estrellas brillantes y lunas sonrientes, creando un ambiente mágico y encantador. Fabricado con telas suaves y delicadas, es perfecto para mimar a tu pequeño. ¡Déjalo brillar como una estrella!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>
@@ -79,7 +79,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Alegría de Bebé</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>¡Celebra la alegría de la infancia con el body "Alegría de Bebé"! Con su diseño alegre y colorido, este body es perfecto para llenar cada día de risas y sonrisas. Fabricado con materiales suaves y resistentes, proporciona la máxima comodidad para tu pequeño mientras explora el mundo. ¡Haz que cada momento sea memorable!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>
@@ -98,7 +98,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Abrazos Suaves</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>Envuelve a tu bebé en amor y ternura con el body "Abrazos Suaves". Este body está diseñado para brindar una sensación de seguridad y calidez, como un abrazo de mamá. Confeccionado con tejidos suaves y elásticos, proporciona una comodidad incomparable para tu pequeño. ¡Que los abrazos sean infinitos!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>
@@ -117,7 +117,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Sonrisa Encantadora</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>¡Inspira sonrisas con el body "Sonrisa Encantadora"! Este adorable body está decorado con divertidos diseños y colores vibrantes que seguramente iluminarán el día de todos. Fabricado con materiales de alta calidad, ofrece una suavidad excepcional para la piel delicada de tu bebé. ¡Que la magia de la sonrisa nunca se apague!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>
@@ -136,7 +136,7 @@ export default function Slug() {
                             <div className='flex flex-col'>
                                 <h1>Rayo de Sol</h1>
                                 <p className='font-semibold'>Descripción: </p>
-                                <p className='-mt-2'>Descripción: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p className='-mt-2'>Deja que tu bebé brille con el body "Rayo de Sol". Con su diseño brillante y radiante, este body es perfecto para alegrar cualquier día nublado. Fabricado con tejidos suaves y transpirables, garantiza la máxima comodidad para tu pequeño mientras disfruta del sol. ¡Que cada día sea tan brillante como un rayo de sol!</p>
                                 <div className='font-bold text-[24px] mt-4'>
                                     49.00 €
                                 </div>

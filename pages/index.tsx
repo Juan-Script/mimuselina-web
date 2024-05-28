@@ -1,9 +1,9 @@
 import type { NextPage } from "next";
 
-const Home: NextPageHomeType = () => {
+const Home = () => {
   return (
     <div className="relative bg-white w-full flex flex-col items-end justify-start text-left text-base text-white font-heading-5">
-      <div className="w-[1440px] relative bg-white h-[139px] overflow-hidden shrink-0">
+      <div className="w-full relative bg-white h-[139px] overflow-hidden shrink-0 ">
         <div className="absolute top-[40px] left-[1127px] rounded-81xl bg-accent flex flex-row items-center justify-center py-6 px-10">
           <b className="relative leading-[100%]">Contacta</b>
         </div>
@@ -28,7 +28,7 @@ const Home: NextPageHomeType = () => {
           Mimuselina
         </b>
       </div>
-      <div className="w-[1440px] relative bg-white box-border h-[739px] overflow-hidden shrink-0 text-primary border-t-[1px] border-solid border-gray-1">
+      <div className="w-full relative bg-white box-border h-[739px] overflow-hidden shrink-0 text-primary border-t-[1px] border-solid border-gray-1">
         <div className="absolute top-[594px] left-[150px] rounded-81xl bg-accent flex flex-row items-center justify-center py-8 px-16 text-white">
           <b className="relative leading-[100%]">Comprar ahora</b>
         </div>
@@ -65,7 +65,7 @@ const Home: NextPageHomeType = () => {
           </div>
         </div>
       </div>
-      <div className="w-[1440px] relative bg-white h-[764px] overflow-hidden shrink-0 text-xl text-orange-2">
+      <div className="w-full relative bg-white h-[764px] overflow-hidden shrink-0 text-xl text-orange-2">
         <div className="absolute top-[120px] left-[150px] flex flex-col items-start justify-start gap-[20px]">
           <b className="relative leading-[100%]">Por qué nosotros</b>
           <b className="w-[854px] relative text-37xl leading-[140%] inline-block text-primary">
@@ -142,7 +142,7 @@ const Home: NextPageHomeType = () => {
           </div>
         </div>
       </div>
-      <div className="w-[1440px] relative bg-orange-light-1 h-[930px] overflow-hidden shrink-0 text-37xl text-primary">
+      <div className="w-full relative bg-orange-light-1 h-[930px] overflow-hidden shrink-0 text-37xl text-primary">
         <div className="absolute top-[120px] left-[150px] flex flex-col items-start justify-start gap-[20px]">
           <b className="w-[735px] relative leading-[140%] inline-block">
             Productos más vendidos
@@ -251,7 +251,7 @@ const Home: NextPageHomeType = () => {
           </div>
         </div>
       </div>
-      <div className="w-[1440px] relative bg-light-pink h-[921px] overflow-hidden shrink-0">
+      <div className="w-full relative bg-light-pink h-[921px] overflow-hidden shrink-0">
         <div className="absolute top-[533px] left-[calc(50%_-_447px)] flex flex-row items-start justify-start gap-[24px]">
           <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
             <div className="absolute top-[calc(50%_-_87px)] left-[calc(50%_-_87px)] bg-text w-[174px] h-[174px] mix-blend-multiply" />
@@ -293,7 +293,7 @@ const Home: NextPageHomeType = () => {
           </div>
         </div>
       </div>
-      <div className="w-[1440px] relative bg-primary h-[434px] overflow-hidden shrink-0 text-gray-1">
+      <div className="w-full relative bg-primary h-[434px] overflow-hidden shrink-0 text-gray-1">
         <div className="absolute top-[366px] left-[150px] flex flex-row items-start justify-start gap-[567px] text-sm">
           <div className="flex flex-row items-center justify-start gap-[10px]">
             <div className="relative leading-[160%] font-medium">

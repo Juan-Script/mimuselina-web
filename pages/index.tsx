@@ -1,5 +1,3 @@
-import type { NextPage } from "next";
-
 const Home = () => {
   return (
     <div className="relative bg-white w-full flex flex-col items-end justify-start text-left text-base text-white font-heading-5">

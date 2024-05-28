@@ -40,6 +40,38 @@ module.exports = {
       "77xl": "96px",
       inherit: "inherit",
     },
+    screens: {
+      "3xl": {
+        max: "3000px",
+      },
+      "2xl": {
+        max: "2000px",
+      },
+      xl: {
+        max: "1650px",
+      },
+      "2lg": {
+        max: "1440px",
+      },
+      lg: {
+        max: "1280px",
+      },
+      "2md": {
+        max: "1024px"
+      },
+      md: {
+        max: "960px",
+      },
+      custom: {
+        max: "835px",
+      },
+      sm: {
+        max: "550px",
+      },
+      xs: {
+        max: "395px",
+      },
+    },
   },
   corePlugins: {
     preflight: false,

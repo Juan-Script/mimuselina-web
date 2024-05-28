@@ -2,9 +2,9 @@ import Link from "next/link";
 import PorqueNosotros from "../components/PorqueNosotros";
 import MasVendidos from "../components/MasVendidos";
 import Nuevo from "../components/Nuevo";
-import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
+import Footer2 from "../components/Footer2";
 
 
 const Home = () => {
@@ -21,7 +21,7 @@ const Home = () => {
 
       <Nuevo />
 
-      <Footer />
+      <Footer2 />
     </div>
   );
 };

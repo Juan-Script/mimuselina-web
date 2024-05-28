@@ -19,8 +19,7 @@ export default function PorqueNosotros() {
                             Precios mas bajos
                         </b>
                         <div className="w-[210px] relative text-base leading-[160%] font-medium text-text inline-block">
-                            Pulvinar cras et sem egestas ullamcorper leo eu scelerisque.
-                            Euismod eu elementum urna.
+                            Ofrecemos los precios más competitivos para garantizarte el mejor valor.
                         </div>
                     </div>
                     <img
@@ -35,8 +34,7 @@ export default function PorqueNosotros() {
                             Entrega rápida
                         </b>
                         <div className="w-[210px] relative text-base leading-[160%] font-medium text-text inline-block">
-                            Pulvinar cras et sem egestas ullamcorper leo eu scelerisque.
-                            Euismod eu elementum urna.
+                            Recibe tus compras rápidamente con nuestro servicio de entrega eficiente.
                         </div>
                     </div>
                     <img
@@ -51,8 +49,7 @@ export default function PorqueNosotros() {
                             Orientación experta
                         </b>
                         <div className="w-[210px] relative text-base leading-[160%] font-medium text-text inline-block">
-                            Pulvinar cras et sem egestas ullamcorper leo eu scelerisque.
-                            Euismod eu elementum urna.
+                            Nuestro equipo te brinda asesoría profesional y personalizada.
                         </div>
                     </div>
                     <img
@@ -67,8 +64,7 @@ export default function PorqueNosotros() {
                             Atención al cliente
                         </b>
                         <div className="w-[210px] relative text-base leading-[160%] font-medium text-text inline-block">
-                            Pulvinar cras et sem egestas ullamcorper leo eu scelerisque.
-                            Euismod eu elementum urna.
+                            Disfruta de una atención al cliente amigable y resolutiva.
                         </div>
                     </div>
                     <img

@@ -9,7 +9,7 @@ export default function MasVendidos() {
                     Productos más vendidos
                 </b>
                 <div className="w-full relative text-base leading-[160%] font-medium text-text inline-block">
-                    Explora nuestra selección de cursos más populares y exitosos. Estos cursos, altamente valorados por nuestros estudiantes, te ofrecen contenido de calidad y resultados comprobados para impulsar tu aprendizaje y desarrollo profesional. ¡Descubre por qué son los favoritos!
+                Descubre nuestra colección de los productos más vendidos para bebés, seleccionados por nuestros clientes como sus favoritos. Desde suaves y acogedores bodys hasta adorables conjuntos y accesorios esenciales, aquí encontrarás las prendas más populares que combinan calidad, comodidad y estilo para tu pequeño. ¡No te pierdas lo mejor de nuestra tienda!
                 </div>
             </div>
             <div className="mt-20 grid grid-cols-4 xl:grid-cols-2 sm:grid-cols-1 items-start justify-start py-0 px-3 gap-[24px] text-xs text-accent-hover">

@@ -12,8 +12,8 @@ export default function MasVendidos() {
                     Explora nuestra selección de cursos más populares y exitosos. Estos cursos, altamente valorados por nuestros estudiantes, te ofrecen contenido de calidad y resultados comprobados para impulsar tu aprendizaje y desarrollo profesional. ¡Descubre por qué son los favoritos!
                 </div>
             </div>
-            <div className="mt-20 grid grid-cols-4 lg:grid-cols-2 sm:grid-cols-1 items-start justify-start py-0 px-3 gap-[24px] text-xs text-accent-hover">
-                <Link href={"/productos/pequeno-explorador"} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px]">
+            <div className="mt-20 grid grid-cols-4 xl:grid-cols-2 sm:grid-cols-1 items-start justify-start py-0 px-3 gap-[24px] text-xs text-accent-hover">
+                <Link href={"/productos/pequeno-explorador"} className="[text-decoration:none] flex flex-col items-center justify-center gap-[20px]">
                     <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
                         <img
                             className="absolute w-[305px] h-[305px] object-cover"
@@ -30,7 +30,7 @@ export default function MasVendidos() {
                         </div>
                     </div>
                 </Link>
-                <Link href={"/productos/estrellita-magica"} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px]">
+                <Link href={"/productos/estrellita-magica"} className="[text-decoration:none] flex flex-col items-center justify-center gap-[20px]">
                     <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
                         <img
                             className="absolute w-[322px] h-[322px] object-cover"
@@ -47,7 +47,7 @@ export default function MasVendidos() {
                         </div>
                     </div>
                 </Link>
-                <Link href={"/productos/sonrisa-encantadora"} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px]">
+                <Link href={"/productos/sonrisa-encantadora"} className="[text-decoration:none] flex flex-col items-center justify-center gap-[20px]">
                     <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
                         <img
                             className="absolute w-[308px] h-[308px] object-cover"
@@ -64,7 +64,7 @@ export default function MasVendidos() {
                         </div>
                     </div>
                 </Link>
-                <Link href={"/productos/rayo-de-sol"} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px]">
+                <Link href={"/productos/rayo-de-sol"} className="[text-decoration:none] flex flex-col items-center justify-center gap-[20px]">
                     <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
                         <img
                             className="absolute w-[304.5px] h-[304.5px] object-cover"

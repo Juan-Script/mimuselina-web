@@ -13,7 +13,7 @@ export default function Nuevo() {
           Descubre las últimas novedades en nuestra tienda para bebés, ¡todo lo que necesitas para tu pequeño!
         </div>
       </div>
-      <div className="flex flex-row md:flex-col items-start justify-start gap-[24px]">
+      <div className="flex flex-row md:flex-col items-center justify-center gap-[24px]">
         <div className="rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
           <img
             className="w-full max-w-[300px] object-contain"

@@ -150,7 +150,7 @@ export default function Slug() {
 
                 {slug === 'traje-fallero-liam' && (
                     <div className='flex flex-row md:flex-col gap-10'>
-                        <img className='max-h-[700px] min-h-[600px] md:min-h-0 rounded-3xl' src="/BodyTraje.jpg" alt="Imagen de Rayo de Sol" />
+                        <img className='max-h-[700px] min-h-[600px] md:min-h-0 rounded-3xl' src="/TrajeLiam.jpg" alt="Imagen de Rayo de Sol" />
                         <div className='flex flex-col justify-between'>
                             <div className='flex flex-col'>
                                 <h1>Traje Fallero Liam</h1>

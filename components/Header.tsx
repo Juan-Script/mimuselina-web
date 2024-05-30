@@ -11,14 +11,14 @@ export default function Header() {
                 </b>
             </Link>
             <div className="flex flex-row items-start justify-start gap-[24px] ">
-                <Link href="/" className="[text-decoration:none] md:hidden font-semibold text-primary">
+                <Link href="/" className="[text-decoration:none] font-semibold text-primary">
                     Home
                 </Link>
                 <Link href="/productos" className="[text-decoration:none]  font-semibold text-primary">
                     Productos
                 </Link>
             </div>
-            <div className="w-fit rounded-81xl bg-accent flex flex-row items-center justify-center py-6 px-10">
+            <div className="w-fit rounded-81xl bg-accent flex flex-row items-center justify-center py-6 px-10 md:hidden">
                 <b className="relative leading-[100%] text-white">Contacta</b>
             </div>
         </div>

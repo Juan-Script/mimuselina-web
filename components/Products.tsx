@@ -33,7 +33,7 @@ export default function Products() {
                 <CardProduct
                     title='Traje Fallero Liam'
                     price='139.00 €'
-                    image='/BodyTraje.jpg'
+                    image='/TrajeLiam.jpg'
                     slug={'traje-fallero-liam'}
                 />
 

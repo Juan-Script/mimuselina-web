@@ -3,13 +3,13 @@ import React from 'react'
 
 export default function Footer2() {
     return (
-        <div className='flex flex-col justify-between bg-[#110506] text-white py-[80px] px-[100px] gap-20 h-full'>
-            <div className='flex flex-row w-full justify-between'>
+        <div className='flex flex-col justify-between bg-[#110506] text-white py-[80px] px-[100px] md:px-[40px] gap-20 h-full'>
+            <div className='flex flex-row md:flex-col w-full justify-between'>
                 <div className='text-[40px] font-bold'>
                     Mimuselina
                 </div>
 
-                <div className='flex flex-row gap-10'>
+                <div className='flex flex-row gap-10 md:mt-10'>
                     <Link href="/" className='[text-decoration:none] text-white'>
                         Home
                     </Link>
@@ -18,7 +18,7 @@ export default function Footer2() {
                     </Link>
                 </div>
             </div>
-            <div className='flex flex-row justify-between'>
+            <div className='flex flex-row md:flex-col md:gap-5 justify-between'>
                 <div className='flex flex-col justify-between'>
                     <div>
                         Llámanos

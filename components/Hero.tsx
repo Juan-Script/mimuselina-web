@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Hero() {
     return (
-        <div className="flex items-center justify-between gap-20 px-[300px] xl:px-[150px]">
+        <div className="flex md:flex-col items-center justify-between gap-20 px-[300px] xl:px-[150px]">
             <div className='flex flex-col gap-[20px]'>
                 <div className='text-[84px] leading-[120%] font-semibold w-full max-w-[640px] lg:text-[64px]'>
                     Fomentando la comodidad de su bebé
@@ -22,7 +22,7 @@ export default function Hero() {
                 <img
                     className='rounded-lg'
                     alt='img'
-                    src="/image-1@2x.png"
+                    src="/BodySonrisaHero.png"
                     width={365}
                     height={365}
                 />

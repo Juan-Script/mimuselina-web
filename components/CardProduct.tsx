@@ -10,11 +10,10 @@ interface Props {
 
 export default function CardProduct({ title, price, image, slug }: Props) {
     return (
-        <Link href={`/productos/${slug}`} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px]">
-            <div className="w-[282px] relative rounded-2xl bg-white h-[268px] overflow-hidden shrink-0">
-                <div className="absolute top-[calc(50%_-_87px)] left-[calc(50%_-_87px)] bg-text w-[174px] h-[174px] mix-blend-multiply" />
+        <Link href={`/productos/${slug}`} className="[text-decoration:none] flex flex-col items-start justify-start gap-[20px] w-full">
+            <div className="w-full rounded-2xl relative bg-white h-[268px] p-3 shrink-0">
                 <img
-                    className="absolute top-[-8px] left-[-26px] w-[308px] h-[308px] object-cover"
+                    className="absolute top-[-8px] rounded-2xl left-[-26px] w-full h-[308px] object-cover"
                     alt=""
                     src={image}
                 />

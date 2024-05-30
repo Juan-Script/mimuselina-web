@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <div className="flex md:flex-col items-center justify-between gap-20 px-[300px] xl:px-[150px]">
             <div className='flex flex-col gap-[20px]'>
-                <div className='text-[84px] leading-[120%] font-semibold w-full max-w-[640px] lg:text-[64px]'>
+                <div className='text-[84px] leading-[120%] font-semibold w-full max-w-[640px] lg:text-[42px]'>
                     Fomentando la comodidad de su bebé
                 </div>
                 <div className='text-lg leading-[160%] font-medium text-text'>
@@ -18,13 +18,13 @@ export default function Hero() {
                 </Link>
             </div>
 
-            <div className='cover w-[365px] h-[365px] bg-[#FFC8BB] p-4 rounded-lg'>
+            <div className='cover w-[320px] md:w-[280px] md:h-[280px] h-[320px] bg-[#FFC8BB] p-4 rounded-lg'>
                 <img
-                    className='rounded-lg'
+                    className='rounded-lg md:w-[280px] md:h-[280px] '
                     alt='img'
                     src="/BodySonrisaHero.png"
-                    width={365}
-                    height={365}
+                    width={320}
+                    height={320}
                 />
             </div>
         </div>

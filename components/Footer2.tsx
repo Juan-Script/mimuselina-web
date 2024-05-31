@@ -23,7 +23,7 @@ export default function Footer2() {
                     <div>
                         Llámanos
                     </div>
-                    <div className='text-[24px]'>
+                    <div className='text-[24px] md:text-[18px]'>
                         +34 657 35 87 94
                     </div>
                 </div>
@@ -32,7 +32,7 @@ export default function Footer2() {
                     <div>
                         Email
                     </div>
-                    <div className='text-[24px]'>
+                    <div className='text-[24px] md:text-[18px]'>
                         kevinvaquerovlc@gmail.com
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export default function Footer2() {
                     <div>
                         Localidad
                     </div>
-                    <div className='text-[24px]'>
+                    <div className='text-[24px] md:text-[18px]'>
                         Valencia
                     </div>
                 </div>

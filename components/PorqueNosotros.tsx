@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function PorqueNosotros() {
     return (
-        <div className="relative bg-white h-[fit px-[300px] xl:px-[150px] md:px-[40px] items-center justify-center overflow-hidden shrink-0 text-xl text-orange-2">
+        <div className="relative bg-white h-[fit px-[300px] xl:px-[150px] md:px-[40px] py-10 items-center justify-center overflow-hidden shrink-0 text-xl text-orange-2">
             <div className="flex flex-col items-start justify-start gap-[20px]">
                 <b className="relative leading-[100%]">Por qué nosotros</b>
                 <b className="w-full relative text-37xl md:text-[36px] leading-[140%] inline-block text-primary">
